@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MSCDemo
+
+  Created by Jimmy on 17/6/21.
+
+*/
+
+"weather"                       =   "合肥今天天气怎么样?";
+
+"hide"                          =   "Hide";
+
+"pageBack"                      =   "Back";
+
+"syncSuccess"                   =   "sync schema success.";
+
+"agentNull"                     =   "agent is null, create it first.";
+
+"agentExist"                    =   "m_agent has been created, do not need create again.";
+
+"syncNotYet"                    =   "sid is null, sync contacts first please.";
+
+"RecordStart"                   =   "your phone is reading now";
+
+"RecordStop"                    =   "your phone has stopped recording now";
+
+"RecordNoStart"                 =   "your phone has not started recording.";
+
+"RecordStarted"                 =   "your phone has started recording already.";

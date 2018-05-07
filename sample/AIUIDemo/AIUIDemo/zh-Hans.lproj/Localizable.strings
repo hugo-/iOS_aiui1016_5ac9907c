@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  MSCDemo
+
+  Created by Jimmy on 17/6/21.
+
+*/
+
+
+"weather"                       =   "合肥今天天气怎么样?";
+
+"hide"                          =   "隐藏";
+
+"pageBack"                      =   "返回";
+
+"syncSuccess"                   =   "上传联系人成功";
+
+"agentNull"                     =   "m_agent为空，请先创建";
+
+"agentExist"                    =   "m_agent已存在，无需重复创建";
+
+"syncNotYet"                    =   "sid 为空，请先上传联系人再查询";
+
+"RecordStart"                   =   "录音开始";
+
+"RecordStop"                    =   "录音结束";
+
+"RecordNoStart"                 =   "录音未开始";
+
+"RecordStarted"                 =   "已在录音";
+
